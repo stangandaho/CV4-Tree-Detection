@@ -1,0 +1,7 @@
+path: E:/CV4 Tree detection/datasets
+train: images/train
+val: images/val
+test: 
+nc: 1
+names:
+  0: Tree
