@@ -31,9 +31,10 @@ scripts/
 ```
 
 ## 🧪 Requirements
-Make sure the requierement are installed:
+Make sure the requierements are installed:
 - Python 3.8+
 - R (for running the `.R` scripts)
+
 Install Python dependencies:
 
 ```bash
