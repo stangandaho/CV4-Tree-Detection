@@ -42,4 +42,4 @@ pip install -r requirements.txt
 
 ## 💻 Training in Google Colab
 
-The model was trained using Google Colab with a free T4 GPU. After mounting Google Drive and navigating to the project folder, required libraries (`ultralytics`, `rasterio`) were installed, and the model was trained with `yolo11n-seg.pt` for 120 epochs. Ensure paths in `treeseg.yaml` are updated to match your Drive directory (e.g., `/gdrive/MyDrive/CV4 Tree detection`).
+The model was trained using Google Colab with a free T4 GPU. The notebook can be accessed [here](https://colab.research.google.com/drive/1yaLMNFknULmYvejrNa8PprN-dFlgpbtz?usp=sharing). After mounting Google Drive and navigating to the project folder, required libraries (`ultralytics`, `rasterio`) were installed, and the model was trained with `yolo11n-seg.pt` for 120 epochs. Ensure paths in `treeseg.yaml` are updated to match your Drive directory (e.g., `/gdrive/MyDrive/CV4 Tree detection`).
