@@ -28,6 +28,7 @@ scripts/
 ├── 05_to_jpeg.py                # Converts image tiles to JPEG
 ├── 06_yolo_dir_architector.py   # Creates YOLO-compliant directory structure
 ├── 07_predict.py                # Performs segmentation using YOLO model
+```
 
 ## 🧪 Requirements
 Make sure the requierement are installed:
